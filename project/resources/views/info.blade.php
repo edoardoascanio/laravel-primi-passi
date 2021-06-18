@@ -8,6 +8,7 @@
     </head>
     <body>
         <h1>Info</h1>
+        
 
     <a href="{{ route('home') }}">Home</a>
     </body>
